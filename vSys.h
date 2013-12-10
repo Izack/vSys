@@ -3,6 +3,9 @@
 	Vessel Code Building Blocks for quicker development cycles with complex vessels
 
 	by Scott Zirpolo, aka Izack
+
+	To do:
+	-fix git
 */
 
 #include "Orbitersdk.h"
